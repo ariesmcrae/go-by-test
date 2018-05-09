@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "go-by-test-hello"
+		},
+		{
+			"path": "go-by-test-int"
+		},
+		{
+			"path": "go-by-test-iteration"
+		},
+		{
+			"path": "go-by-test-arrays"
+		}
+	],
+	"settings": {}
+}
