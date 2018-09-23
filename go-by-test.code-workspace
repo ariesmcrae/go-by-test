@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "go-by-test-arrays"
+		},
+		{
+			"path": "notes"
 		}
 	],
 	"settings": {}
